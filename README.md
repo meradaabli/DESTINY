@@ -14,6 +14,15 @@
    ii. student in the university has been fraustrating  
    iii. Has been stressful and tiring  
    iv. But exciting and fun  
-    ###
+  ### My Personal Experience  
+  -Learning new programming languages  
+  -Learning more and practicingUI/UX designing  
+  -Joinning and learning more about the importance of communities  
+   ### My Projects  
+   [portfolio]  
+   [Mentor Miranda]  
+   
+  
+    
      
   
